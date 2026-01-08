@@ -1,0 +1,7 @@
+{
+  "name": "DreamWeaver: Interactive AI Dream Explorer",
+  "description": "An ethereal, interactive dream analysis app that transforms subconscious exploration into a branching storytelling experience with psychological, cultural, and creative perspectives.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
